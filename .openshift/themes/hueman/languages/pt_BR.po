@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Hueman\n"
 "POT-Creation-Date: 2013-12-27 14:39+0100\n"
-"PO-Revision-Date: 2015-02-10 04:10-0300\n"
+"PO-Revision-Date: 2015-02-10 04:20-0300\n"
 "Last-Translator: Marco Aurélio Silva <contato@corei.com.br>\n"
 "Language-Team: \n"
 "Language: English\n"
@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../searchform.php:3
 msgid "To search type and hit enter"
-msgstr ""
+msgstr "Pesquisar"
 
 #: ../sidebar-2.php:5 ../sidebar.php:9
 msgid "Expand Sidebar"
@@ -72,11 +72,11 @@ msgstr ""
 
 #: ../sidebar-2.php:10
 msgid "More"
-msgstr ""
+msgstr "Mais"
 
 #: ../sidebar.php:14
 msgid "Follow:"
-msgstr ""
+msgstr "Siga:"
 
 #: ../single.php:14
 msgid "by"

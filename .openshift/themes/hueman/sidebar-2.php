@@ -2,7 +2,7 @@
 
 <div class="sidebar s2">
 	
-	<a class="sidebar-toggle" title="<?php _e('Expand Sidebar','hueman'); ?>"><i class="fa icon-sidebar-toggle"></i></a>
+	<a class="sidebar-toggle" title="Expandir"><i class="fa icon-sidebar-toggle"></i></a>
 	
 	<div class="sidebar-content">
 		

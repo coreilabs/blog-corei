@@ -1,2 +1,2 @@
 .project
-wp-config.php
+.openshift/config/
